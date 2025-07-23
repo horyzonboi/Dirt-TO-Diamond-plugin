@@ -1,0 +1,5 @@
+name: permissions
+version: '1.0'
+main: net.horyzon.permissions.Permissions
+api-version: '1.20'
+authors: [ horyzonboi ]
